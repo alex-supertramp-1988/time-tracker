@@ -6,3 +6,5 @@ Time tracker
 See if this causes Jenkins to build
 
 Additional changes
+
+Alias @hourly
